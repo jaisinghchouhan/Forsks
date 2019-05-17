@@ -1,0 +1,13 @@
+json_string="""{
+"name" : {
+       "first name" : "abc",
+       "last name" : "xyz"
+       },
+"roll no" : 123,
+"photo" : "http://qwe.png",
+"depatment" : "cs",
+"contact detail" : {
+                    "phone number" : 9123456789,
+                    "email id" : "9jai@gmail.com"
+                    }
+                }"""

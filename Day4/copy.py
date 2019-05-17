@@ -1,0 +1,5 @@
+file1=open("romeo.txt","rt")
+file2=open("file2.txt","wt")
+file2.write(file1.read())
+file2.close()
+file1.close()

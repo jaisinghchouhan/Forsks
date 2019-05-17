@@ -1,0 +1,26 @@
+json_string="""{
+"name" : {
+       "first name" : "abc",
+       "last name" : "xyz"
+       },
+"photo" : "http://qwe.png",
+"depatment" : "cs",
+"research areas" : ["daa","toc"],
+"contact detail" : {
+                    "phone number" : 9123456789
+                    "email id" : "9jai@gmail.com",
+                    }
+                },
+{
+"name" : {
+       "first name" : "abc",
+       "last name" : "xyz"
+       }
+"photo" : "http://qwe.png",
+"depatment" : "cs",
+"research areas" : ["daa","toc"],
+"contact detail" : {
+                    "phone number" : 9123456789,
+                    "email id" : "9jai@gmail.com"
+                    }
+                }"""
